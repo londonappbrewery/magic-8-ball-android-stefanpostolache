@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="blue">#3f51b5</color>
+    <color name="turquoise">#26ade0</color>
+    <color name="forgotten_purple">#816cd6</color>
+    <color name="circumorbital_ring">#5758BB</color>
+    <color name="circumorbital_ring_darker">#383978</color>
+    <color name="puffins_bill">#EE5A24</color>
 </resources>
